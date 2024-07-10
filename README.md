@@ -20,7 +20,7 @@ Please follow these guidelines when using our brand assets to ensure consistent 
 2. **Maintain clear space**: Ensure there is sufficient space around the logos to maintain visual integrity.
 3. **Proper scaling**: Logos should be scaled proportionally. Do not stretch or compress the logos.
 
-For detailed guidelines on the usage of Quasar Finance's brand assets, refer to our [Brand Guidelines Document](#https://quasar.fi/brand-kit).
+For detailed guidelines on the usage of Quasar Finance's brand assets, refer to our [Brand Guidelines Document](https://quasar.fi/brand-kit).
 
 ## Accessing the Assets
 
@@ -32,3 +32,11 @@ To use any of the assets, you can directly link to them using the URLs provided 
   alt="Quasar Finance Logo"
 />
 ```
+
+# Contact
+
+For any questions or inquiries regarding the use of Quasar Finance's brand assets, please contact us at [brand@quasarfinance.com](https://discord.com/invite/quasarfi).
+
+---
+
+© 2024 Quasar Finance. All rights reserved.
